@@ -121,7 +121,7 @@ section .healthcare .card-section, section .furniture .card-section {
 }
 section .healthcare .product-card, section .furniture .product-card {
   width: 14vw;
-  height: 30vw;
+  height: 34vw;
   background-color: #99c258;
   color: black;
   padding: 4rem;
